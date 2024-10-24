@@ -26,3 +26,7 @@ Um tradutor de código morse e código binário
 * ### pyttsx3
 
 * ### pygame
+
+## Limitações
+
+* ### Não traduz acentos
