@@ -3,7 +3,7 @@ Um tradutor de código morse e código binário
 
 ## Como funciona
 
-* ### Transforma o texto digitado no teclado para código morse ou código binário ou traduz o código da área de transferência
+* ### Transforma o texto digitado no teclado para código morse ou código binário e pode traduzir o código copiado na área de transferência
 
 ## Como utlizar
 
@@ -15,6 +15,8 @@ Um tradutor de código morse e código binário
 * ### Traduzir
     #### Pressione a tecla de atalho para traduzir ( ";" por padrão ) quando o modo de digitar estiver desativado para traduzir o código na área de transferência para texto.
 
+    #### O texto será traduzido independente do tipo de código selecionado
+
 ## Dependências
 
 * ### keyboard
@@ -22,10 +24,6 @@ Um tradutor de código morse e código binário
 * ### json
 
 * ### pyperclip
-
-* ### pyttsx3
-
-* ### pygame
 
 ## Limitações
 
